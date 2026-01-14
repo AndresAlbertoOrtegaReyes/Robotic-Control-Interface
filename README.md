@@ -52,14 +52,3 @@ $$\hat{x}_{k|k} = \hat{x}_{k|k-1} + K_k (z_k - H_k \hat{x}_{k|k-1})$$
 * 1x Analog Joystick module.
 * 1x ADS1115 ADC Module (16-bit).
 * Jumper wires & Breadboard.
-
-## 💻 Installation & Usage
-
-### Prerequisites
-* [Docker](https://docs.docker.com/get-docker/) & Docker Compose
-* [ROS Noetic/Humble](http://wiki.ros.org/) (if running natively)
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/tu-usuario/Robotic-Control-Interface.git](https://github.com/tu-usuario/Robotic-Control-Interface.git)
-cd Robotic-Control-Interface
