@@ -2,7 +2,6 @@
 
 [![ROS Version](https://img.shields.io/badge/ROS-Noetic%2FHB-blue.svg)](http://wiki.ros.org/noetic)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED.svg?logo=docker&logoColor=white)](https://www.docker.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
 ## 📖 Overview
