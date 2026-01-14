@@ -1,4 +1,4 @@
-# University Robotic Control Interface (URCI)
+# Universal Robotic Control Interface (URCI)
 
 [![ROS Version](https://img.shields.io/badge/ROS-Noetic%2FHB-blue.svg)](http://wiki.ros.org/noetic)
 [![Docker](https://img.shields.io/badge/Docker-Enabled-2496ED.svg?logo=docker&logoColor=white)](https://www.docker.com/)
